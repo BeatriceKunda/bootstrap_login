@@ -12,7 +12,7 @@ body{
 .twittericon {
     fill: white;
     padding:20px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .form-group{
@@ -21,4 +21,12 @@ body{
     width:350px ;
     text-align: center;
 
+}
+.form-group .btn{
+    border-radius:45px;
+    width:150px;
+
+}
+.form-group .form-control{
+    border-radius:25px;
 }
